@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/lerisse/car-rental/blob/master/react-car-app/src/assets/images/car-logo-dark.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
