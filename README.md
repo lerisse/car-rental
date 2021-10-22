@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lerisse/car-rental/blob/master/react-car-app/src/assets/images/car-logo-dark.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/lerisse/car-rental">
+    <img src="https://github.com/lerisse/car-rental/blob/master/react-car-app/src/assets/images/car-logo-dark.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Car Rental Personal Project</h3>
