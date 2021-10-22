@@ -2,8 +2,6 @@ import { Module } from '@nestjs/common';
 import { Connection } from 'typeorm';
 import { TypeOrmModule } from '@nestjs/typeorm';
 
-//Testing
-
 @Module({
   imports: [TypeOrmModule.forRoot()],
   exports: [TypeOrmModule],

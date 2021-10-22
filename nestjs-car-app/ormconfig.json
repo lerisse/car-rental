@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": 3306,
   "username": "root",
-  "password": "",
+  "password": "L33thack3r1!",
   "database": "yourcar",
   "entities": ["dist/**/entities/*{.ts,.js}"],
   "synchronize": true,
