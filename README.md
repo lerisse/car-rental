@@ -9,6 +9,6 @@
   <h3 align="center">Car Rental Personal Project</h3>
 
   <p align="center">
-    Personal learning project to code with Tailwind, Nest, GraphQL, Typeorm, MySQL, Docker, React, Redux, AWS
+    Personal learning project to code with TypeScript, Tailwind, Nest, GraphQL, Typeorm, MySQL, Docker, React, Redux, AWS
   </p>
 </div>
