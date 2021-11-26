@@ -1,14 +1,14 @@
 import {
   faEllipsisH,
   faFillDrip,
-  faTachometerAlt,
-} from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React from "react";
-import styled from "styled-components";
-import tw from "twin.macro";
-import { ICar } from "../../../typings/car";
-import { Button } from "../button";
+  faTachometerAlt
+} from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React from 'react';
+import styled from 'styled-components';
+import tw from 'twin.macro';
+import { ICar } from '../../../typings/car';
+import { Button } from '../button';
 
 interface ICarProps extends ICar {}
 
@@ -142,13 +142,13 @@ export function Car(props: ICarProps) {
     monthlyPrice,
     mileage,
     gearType,
-    gas,
+    gas
   } = props;
 
   return (
     <CarContainer>
       <CarThumbnail>
-        <img src={thumbnailSrc} alt="car thumbnail" />
+        <img src={thumbnailSrc} alt='car thumbnail' />
       </CarThumbnail>
       <CarName>{name}</CarName>
       <PricesContainer>
@@ -182,7 +182,7 @@ export function Car(props: ICarProps) {
           <CarInfo>{gas}</CarInfo>
         </CarDetail>
       </CarDetailsContainer>
-      <RentButton text="Rent a Car Now" />
+      <RentButton text='Rent a Car Now' />
     </CarContainer>
   );
 }
